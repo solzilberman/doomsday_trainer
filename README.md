@@ -44,7 +44,7 @@ Example Solve:
 6. So we take $13$(from step 5) and $4$ (step 3) and compute: $13+4\mod7=3$
 7. Therefore `7/24/1889` was a $3$ (Wednesday). Confirm [here](https://www.google.com/search?q=what+day+was+07%2F24%2F1889)
 
-Highly reccomend the video below to get started and understand the leap-year gotchas + tips and tricks to speed up computation.
+Highly reccomend the numberphile tutorial linked below to get started and understand the leap-year gotchas + tips/tricks to speed up computation.
 
 #### Additional resources I used to learn this:
 - [wikepedia](https://en.wikipedia.org/wiki/Doomsday_rule)
