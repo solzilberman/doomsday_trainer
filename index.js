@@ -1,4 +1,3 @@
-// init new date object with value jan 1 1800
 const START = new Date(1800, 0, 1);
 const END = new Date(2099, 12, 31);
 let CORRECT = 0;
