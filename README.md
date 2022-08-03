@@ -6,7 +6,7 @@ In 1973, John Conway described a *doomsday* algorithm to compute the day of the 
 
 [Here](https://www.youtube.com/watch?v=T_nQG-Bzxsg) is the brilliant man himself, explaining this trick, and doing it at god-like speed. Sadly he passed away in 2020.
 
-### How to Use ?
+### How to Use?
 Visit the live [application](https://solzilberman.github.io/doomsday_trainer/).
 
 Enter computed date as indexed integer $0-6$
