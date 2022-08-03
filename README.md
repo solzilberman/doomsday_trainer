@@ -49,4 +49,4 @@ Highly reccomend the video below to get started and understand the leap-year got
 #### Additional resources I used to learn this:
 - [wikepedia](https://en.wikipedia.org/wiki/Doomsday_rule)
 - [numberphile tutorial](https://www.youtube.com/watch?v=z2x3SSBVGJU)
-- [Mike Boyd learning this over a weekend] https://youtu.be/eSpW4I5moiA
+- [Mike Boyd learning this over a weekend](https://youtu.be/eSpW4I5moiA)
