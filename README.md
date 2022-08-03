@@ -4,6 +4,8 @@
 ### What is this?
 In 1973, John Conway described a *doomsday* algorithm to compute the day of the week given any date on the Gregorian Calendar. This is a web application to practice computing the doomsday algorithm mentally. 
 
+[Here](https://www.youtube.com/watch?v=T_nQG-Bzxsg) is the brilliant man himself, explaining this trick, and doing it at god-like speed. Sadly he passed away in 2020.
+
 ### How to Use ?
 Visit the live [application](https://solzilberman.github.io/doomsday_trainer/).
 
