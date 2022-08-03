@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/45021394/182700001-d4a14927-6104-4941-8eb7-1f41c963f6b1.png)
+
+
 ### What is this?
 In 1973, John Conway described a *doomsday* algorithm to compute the day of the week given any date on the Gregorian Calendar. This is a web application to practice computing the doomsday algorithm mentally. 
 
@@ -20,7 +23,7 @@ Certain days of each year are known as **doomsdays**.
 - Easy to remember **doomsdays**: $4/4, 6/6, 8/8, 10/10, 12/12, 5/9, 9/5, 7/11, 11/7$
 - More are available online and require conditions based on if it is a leap year
 
-Memorize these base years and there associated **doomsdays**:
+Memorize these base years and their associated **doomsdays**:
 - 1700-Sun
 - 1800-Fri
 - 1900-Wed
@@ -41,8 +44,9 @@ Example Solve:
 6. So we take $13$(from step 5) and $4$ (step 3) and compute: $13+4\mod7=3$
 7. Therefore `7/24/1889` was a $3$ (Wednesday). Confirm [here](https://www.google.com/search?q=what+day+was+07%2F24%2F1889)
 
-There are additional tricks and shortcuts for specific dates available through various source online, just need to spend some time digging + memorizing!
+Highly reccomend the video below to get started and understand the leap-year gotchas + tips and tricks to speed up computation.
 
-Additional resources I used to learn this:
+#### Additional resources I used to learn this:
 - [wikepedia](https://en.wikipedia.org/wiki/Doomsday_rule)
 - [numberphile tutorial](https://www.youtube.com/watch?v=z2x3SSBVGJU)
+- [Mike Boyd learning this over a weekend] https://youtu.be/eSpW4I5moiA
