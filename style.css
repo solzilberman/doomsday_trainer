@@ -1,0 +1,57 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(200, 207, 207);
+}
+
+button{
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5%;
+}
+
+div {
+    margin: 10px;
+}
+
+.input-form{
+    align-items: center;
+    justify-content: center;
+}
+
+.date-display{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 200px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#new-date{
+    background-color: #e65400;
+}
+
+#guess{
+    height: 20px;
+}
+
+#correct-span{
+    color: green;
+}
+
+#stats{
+    border: black solid 1px;
+    padding: 10px;
+}
