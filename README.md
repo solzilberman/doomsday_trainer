@@ -35,7 +35,7 @@ Memorize these *base years* and their associated **doomsdays**:
 - $1900$: $3$ (Wed)
 - $2000$: $2$ (Tue)
 
-This patter is cyclical so the year $2100$ will be a $0$, $2200$ will be a $5$ and so on...
+This pattern is cyclical so the year $2100$ will be a $0$, $2200$ will be a $5$ and so on...
 
 Therefore, the algorithm is quite simple:
 - calculate **doomsday** for a given year using base years as starting points.
